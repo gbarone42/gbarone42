@@ -14,6 +14,6 @@
 
 <p align="right"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="70"/> </a> 
 
-<p align="right" <a href="https://twitter.com/badph3" target="_blank" rel="noreferrer"> <img src="https://preview.redd.it/twitters-new-logo-v0-520csmznemr81.png?width=640&crop=smart&auto=webp&s=5f37d4b1ddf20feb04b9b77b5c2dda5cd8e807bd" alt="c" width="70" height="70"/> </a> 
+<p align="right"> <a href="https://twitter.com/badph3" target="_blank" rel="noreferrer"> <img src="https://preview.redd.it/twitters-new-logo-v0-520csmznemr81.png?width=640&crop=smart&auto=webp&s=5f37d4b1ddf20feb04b9b77b5c2dda5cd8e807bd" alt="c" width="70" height="70"/> </a> 
 
 </p>
