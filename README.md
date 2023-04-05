@@ -1,11 +1,11 @@
 
 
-<h1 align="left">Hi 👋</h1>
-<h2 align="right"> 🍕      </h2>
+<h align="left">Hi 👋</h>
+<h align="right"> 🍕      </h>
 <img align="right" alt="coding" width="242" src="https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif">
 
 
-<h1 align="left"> 🏳️‍🌈 >
+<h2 align="left"> 🏳️‍🌈 </h2>
 <p align="left">   </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/>
   
   
@@ -43,6 +43,6 @@
 
 <p align="left"> <a href="https://www.geoguessr.com/it" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/0/0c/GeoGuessr_Globe.png/revision/latest?cb=20220415010520" alt="c" width="70" height="70"/> 
 
-  
+  <img align="right" alt="coding" width="242" src="https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif">
   
 </p>
