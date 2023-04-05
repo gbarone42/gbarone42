@@ -3,8 +3,6 @@
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="Coding" width="269" src="https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif">
 
-cdn.com/thumbor/V1W58u_DSzvUTQwg4rqnbUR0pCo=/0x0:2000x1332/1200x675/filters:focal(1215x505:1535x825):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70761324/glennharvey_2022_04_11_vox_Final5.0.gif">
-
 <p align="left">
 </p>
 
