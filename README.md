@@ -19,7 +19,7 @@
 <h align="left">         </h>
 </a> <a href="https://www.geoguessr.com/it" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/0/0c/GeoGuessr_Globe.png/revision/latest?cb=20220415010520" alt="c" width="70" height="70"/>
   <h align="left">            </h>
-</a> <a href="https://open.spotify.com/user/21tqsom2np7t6qk5qk253rara" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="c" width="70" height="70"/>  
+</a> <a href="https://open.spotify.com/playlist/1SLOPOXVE1K2UjEbwmyfRk?si=ce654ce2b8cb436c" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="c" width="70" height="70"/>  
   <h align="left">         </h>
 </p>
 <!--
