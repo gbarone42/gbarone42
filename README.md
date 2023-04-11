@@ -2,6 +2,10 @@
 
 <!-- <img align="center" alt="coding" width="100" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1"> -->
 
+
+
+
+
 <!--
 <h align="left">Hi </h>
 <h align="left">      </h>
@@ -22,6 +26,10 @@
 </a> <a href="https://open.spotify.com/playlist/1SLOPOXVE1K2UjEbwmyfRk?si=ce654ce2b8cb436c" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="c" width="39" height="39"/>  
   <h align="left">         </h>
 </p>
+
+
+
+
 <!--
   <img align="center" alt="coding" width="242" src="https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif">
   -->
