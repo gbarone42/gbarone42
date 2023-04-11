@@ -25,9 +25,12 @@
   <h align="left">            </h>
 </a> <a href="https://open.spotify.com/playlist/1SLOPOXVE1K2UjEbwmyfRk?si=ce654ce2b8cb436c" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="c" width="39" height="39"/>  
   <h align="left">         </h>
-</p>
-
-
+</a> <a href="https://42.fr/en/homepage/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/1200px-42_Logo.svg.png" alt="c" width="39" height="39"/>  
+  <h align="left">         </h>
+  
+  
+  </p>
+https://42.fr/en/homepage/
 
 
 <!--
