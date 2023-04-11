@@ -30,8 +30,6 @@
   
   
   </p>
-https://42.fr/en/homepage/
-
 
 <!--
   <img align="center" alt="coding" width="242" src="https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif">
