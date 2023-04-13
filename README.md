@@ -25,7 +25,7 @@
   <h align="left">            </h>
 </a> <a href="https://open.spotify.com/playlist/1SLOPOXVE1K2UjEbwmyfRk?si=ce654ce2b8cb436c" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="c" width="39" height="39"/>  
   <h align="left">         </h>
-</a> <a href="https://42.fr/en/homepage/" target="_blank" rel="noreferrer"> <img src="https://www.42network.org/wp-content/uploads/2022/01/42-Firenze-Logo-420x175.png" alt="c" width="78" height="46"/>  
+</a> <a href="https://42.fr/en/homepage/" target="_blank" rel="noreferrer"> <img src="https://www.42network.org/wp-content/uploads/2022/01/42-Firenze-Logo-420x175.png" alt="c" width="82" height="47"/>  
   <h align="left">         </h>
   
   
