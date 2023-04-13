@@ -26,7 +26,7 @@
 </a> <a href="https://open.spotify.com/playlist/1SLOPOXVE1K2UjEbwmyfRk?si=ce654ce2b8cb436c" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="c" width="39" height="39"/>  
   <h align="left">         </h>
 </a> <a href="https://42.fr/en/homepage/" target="_blank" rel="noreferrer"> <img src="https://42firenze.it/wp-content/uploads/2022/09/42.png" alt="c" width="48" height="40"/>  
-  <h align="left">         </h>
+  <h align="left">         </h>         
 </a> <a href="https://nanabianca.it/" target="_blank" rel="noreferrer"> <img src="https://nanabianca.it/static/image/logo-NB.png" alt="c" width="78" height="39"/>  
   <h align="left">         </h>
   
