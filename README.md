@@ -27,6 +27,8 @@
 </a> <a href="https://42.fr/en/homepage/" target="_blank" rel="noreferrer"> <img src="https://42firenze.it/wp-content/uploads/2022/09/42.png" alt="c" width="38" height="30"/>  
   <h align="left">         </h>   
 </a> <a href="https://wikileaks.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/wikileaks-282727.png" alt="bitcoin" width="50" height="48"/> </a> </a>
+</a> <a href="https://8marketcap.com/" target="_blank" rel="noreferrer"> <img src="https://8marketcap.com/8marketcap.png" width="32" height="32"/> </a> </a>
+
   </p>
 <!--
 
