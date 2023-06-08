@@ -19,7 +19,7 @@
 <h align="left">        </h>
 </a> <a  href="https://twitter.com/badph3" target="_blank" rel="noreferrer"> <img src="https://preview.redd.it/twitters-new-logo-v0-520csmznemr81.png?width=640&crop=smart&auto=webp&s=5f37d4b1ddf20feb04b9b77b5c2dda5cd8e807bd" alt="c" width="45" height="45"/> </a>
 <h align="left">         </h>
-</a> <a href="https://www.instagram.com/badph/?next=%2F" target="_blank" rel="noreferrer"> <img src="https://www.unipile.com/wp-content/uploads/2022/09/Logo-Instagram-noir-1.png" alt="c" width="40" height="40"/>  
+</a> <a href="https://www.instagram.com/badph/?next=%2F" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.freepngimg.com%2Fdownload%2Finstagram%2F8-2-instagram-png-clipart.png&f=1&nofb=1&ipt=51db930579bad7d472396230170fbd2d658399923a0c4ed6c2b4b574bf8099aa&ipo=images" alt="c" width="40" height="40"/>  
 </a> <a href="https://www.geoguessr.com/it" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/0/0c/GeoGuessr_Globe.png/revision/latest?cb=20220415010520" alt="c" width="50" height="50"/>
   <h align="left">            </h>
 </a> <a href="https://open.spotify.com/playlist/1SLOPOXVE1K2UjEbwmyfRk?si=ce654ce2b8cb436c" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="c" width="39" height="39"/>  
