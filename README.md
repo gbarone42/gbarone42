@@ -27,10 +27,10 @@
 </a> <a href="https://open.spotify.com/playlist/1SLOPOXVE1K2UjEbwmyfRk?si=ce654ce2b8cb436c" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="c" width="39" height="39"/>  
   <h align="left">         </h>
 </a> <a href="https://42.fr/en/homepage/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FPurple124%2Fv4%2F07%2Fa6%2F2b%2F07a62b3c-0280-ce2f-23f1-e621173b2e27%2Fsource%2F512x512bb.jpg&f=1&nofb=1&ipt=1050c56db4fe0b2fb20d4ad575dfdc7b11e58e8be9750a4d60b2f60d110853d2&ipo=images" alt="c" width="42" height="42"/>  
+  </a> <a href="https://github.com/pasqualerossi/42-School-Exam-Rank-02" target="_blank" rel="noreferrer"> <img src="https://d6ce0no7ktiq.cloudfront.net/images/stickers/622.png" width="40" height="40"/> </a> </a>
   <h align="left">         </h>   
 </a> <a href="https://our.wikileaks.org/Main_Page" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/wikileaks-282727.png" alt="bitcoin" width="50" height="48"/> </a> </a>
 </a> <a href="https://8marketcap.com/" target="_blank" rel="noreferrer"> <img src="https://8marketcap.com/8marketcap.png" width="40" height="40"/> </a> </a>
-</a> <a href="https://github.com/pasqualerossi/42-School-Exam-Rank-02" target="_blank" rel="noreferrer"> <img src="https://d6ce0no7ktiq.cloudfront.net/images/stickers/622.png" width="40" height="40"/> </a> </a>
 
   </p>
 <!--
