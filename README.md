@@ -28,6 +28,7 @@
   <h align="left">         </h>   
 </a> <a href="https://wikileaks.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/wikileaks-282727.png" alt="bitcoin" width="50" height="48"/> </a> </a>
 </a> <a href="https://8marketcap.com/" target="_blank" rel="noreferrer"> <img src="https://8marketcap.com/8marketcap.png" width="40" height="40"/> </a> </a>
+</a> <a href="https://github.com/pasqualerossi/42-School-Exam-Rank-02" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkhitguntur.ac.in%2Fimages%2Fexamcell.jpg&f=1&nofb=1&ipt=44ede0dd9f317ae15891b223ed612ba77a0e6078f8bce7f6d79512f6bb5fe47c&ipo=images" width="65" height="37"/> </a> </a>
 
   </p>
 <!--
