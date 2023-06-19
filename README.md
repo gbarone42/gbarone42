@@ -24,7 +24,7 @@
   <h align="left">            </h>
 </a> <a href="https://open.spotify.com/playlist/1SLOPOXVE1K2UjEbwmyfRk?si=ce654ce2b8cb436c" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="c" width="39" height="39"/>  
   <h align="left">         </h>
-</a> <a href="https://42.fr/en/homepage/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/1200px-42_Logo.svg.png" alt="c" width="42" height="42"/>  
+</a> <a href="https://42.fr/en/homepage/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/1200px-42_Logo.svg.png" alt="c" width="58" height="58"/>  
   <h align="left">         </h>   
 </a> <a href="https://wikileaks.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/wikileaks-282727.png" alt="bitcoin" width="50" height="48"/> </a> </a>
 </a> <a href="https://8marketcap.com/" target="_blank" rel="noreferrer"> <img src="https://8marketcap.com/8marketcap.png" width="40" height="40"/> </a> </a>
