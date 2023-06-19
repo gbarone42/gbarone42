@@ -28,7 +28,7 @@
   <h align="left">         </h>   
 </a> <a href="https://wikileaks.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/wikileaks-282727.png" alt="bitcoin" width="50" height="48"/> </a> </a>
 </a> <a href="https://8marketcap.com/" target="_blank" rel="noreferrer"> <img src="https://8marketcap.com/8marketcap.png" width="40" height="40"/> </a> </a>
-</a> <a href="https://github.com/pasqualerossi/42-School-Exam-Rank-02" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkhitguntur.ac.in%2Fimages%2Fexamcell.jpg&f=1&nofb=1&ipt=44ede0dd9f317ae15891b223ed612ba77a0e6078f8bce7f6d79512f6bb5fe47c&ipo=images" width="65" height="37"/> </a> </a>
+</a> <a href="https://github.com/pasqualerossi/42-School-Exam-Rank-02" target="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd6ce0no7ktiq.cloudfront.net%2Fimages%2Fstickers%2F622.png&f=1&nofb=1&ipt=4e073647fa8e620b598f195922fcaed677f94d277e9681001d109588bcb1fa06&ipo=images" width="42" height="42"/> </a> </a>
 
   </p>
 <!--
