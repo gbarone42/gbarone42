@@ -22,10 +22,8 @@
 </a> <a href="https://www.instagram.com/badph/?next=%2F" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.freepngimg.com%2Fdownload%2Finstagram%2F8-2-instagram-png-clipart.png&f=1&nofb=1&ipt=51db930579bad7d472396230170fbd2d658399923a0c4ed6c2b4b574bf8099aa&ipo=images" alt="c" width="40" height="40"/>  
 </a> <a href="https://www.geoguessr.com/it" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/0/0c/GeoGuessr_Globe.png/revision/latest?cb=20220415010520" alt="c" width="50" height="50"/>
   <h align="left">            </h>
-
 </a> <a href="https://www.geoguessr.com/it/quiz/seterra" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flh3.googleusercontent.com%2FR7C3eGuYTPJY4TLjqyu9ZAA_k9JXpN-k2BNCOEYQO_3XmdrbFpuUfL9qkXQ7EZqBJQA&f=1&nofb=1&ipt=a60546548b31149a4ea7459db0a9fae43299cae0dcbbc4ea9b8167847720c303&ipo=images" alt="c" width="42" height="42"/>  
-  <h align="left">  
-  
+  <h align="left">
 </a> <a href="https://open.spotify.com/playlist/1SLOPOXVE1K2UjEbwmyfRk?si=ce654ce2b8cb436c" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="c" width="39" height="39"/>  
   <h align="left">         </h>
 </a> <a href="https://42.fr/en/homepage/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/1200px-42_Logo.svg.png" alt="c" width="58" height="58"/>  
