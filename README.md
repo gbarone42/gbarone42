@@ -31,7 +31,7 @@
 </a> <a href="https://wikileaks.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/wikileaks-282727.png" alt="bitcoin" width="50" height="48"/> </a> </a>
 </a> <a href="https://8marketcap.com/" target="_blank" rel="noreferrer"> <img src="https://8marketcap.com/8marketcap.png" width="40" height="40"/> </a> </a>
 </a> <a href="https://github.com/pasqualerossi/42-School-Exam-Rank-02" target="_blank" rel="noreferrer"> <img src="https://d6ce0no7ktiq.cloudfront.net/images/stickers/622.png" width="40" height="40"/> </a> </a>
-
+</a> <a href="https://wikileaks.org/" rel="noreferrer"> <img src="https://i.ytimg.com/vi/Iee5L39EejU/maxresdefault.jpg" width="60" height="40"/> </a> </a>
   </p>
 <!--
 
