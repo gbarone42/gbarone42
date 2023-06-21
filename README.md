@@ -32,6 +32,7 @@
   <h align="left">         </h>   
 </a> <a href="https://8marketcap.com/" target="_blank" rel="noreferrer"> <img src="https://8marketcap.com/8marketcap.png" width="40" height="40"/> </a> </a>
 </a> <a href="https://chat.openai.com//" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.cdnlogo.com%2Flogos%2Fc%2F18%2FChatGPT_800x800.png&f=1&nofb=1&ipt=4e8ec35b01b3f99e9b5ad123260eb2ce37b384749014e41fbe2757e1bccec4ca&ipo=images" width="40" height="40"/> </a> </a>
+</a> <a href="https://www.treccani.it/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.1001buonisconto.it%2Fit%2Ff2274aad2ac4dd76.png&f=1&nofb=1&ipt=79ce173d4eb66d80044836245d703b8fb1bc4b71f8cff10e0124b5aa47d9a3f1&ipo=images" width="36" height="36"/> </a> </a>
 
   </p>
 <!--
