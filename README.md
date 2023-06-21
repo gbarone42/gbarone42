@@ -31,12 +31,13 @@
   </a> <a href="https://github.com/pasqualerossi/42-School-Exam-Rank-02" target="_blank" rel="noreferrer"> <img src="https://d6ce0no7ktiq.cloudfront.net/images/stickers/622.png" width="40" height="40"/> </a> </a>
   <h align="left">         </h>   
 </a> <a href="https://8marketcap.com/" target="_blank" rel="noreferrer"> <img src="https://8marketcap.com/8marketcap.png" width="40" height="40"/> </a> </a>
+</a> <a href="https://chat.openai.com//" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.cdnlogo.com%2Flogos%2Fc%2F18%2FChatGPT_800x800.png&f=1&nofb=1&ipt=4e8ec35b01b3f99e9b5ad123260eb2ce37b384749014e41fbe2757e1bccec4ca&ipo=images" width="40" height="40"/> </a> </a>
 
   </p>
 <!--
 
   <img align="center" alt="coding" width="242" src="https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif">
 
-</a> <a href="https://nanabianca.it/" target="_blank" rel="noreferrer"> <img src="https://nanabianca.it/static/image/logo-NB.png" alt="c" width="68" height="30"/>  
+</a> <a href="https://nanabianca.it/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.cdnlogo.com%2Flogos%2Fc%2F18%2FChatGPT_800x800.png&f=1&nofb=1&ipt=4e8ec35b01b3f99e9b5ad123260eb2ce37b384749014e41fbe2757e1bccec4ca&ipo=images" alt="c" width="68" height="30"/>  
   <h align="left">         </h>
   -->
