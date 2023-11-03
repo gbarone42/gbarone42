@@ -31,12 +31,21 @@
     <!-- Your existing links and images go here -->
 </p>
 
-<h align="left">      </h>
-<p align="left">   </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> <h align="left">        </h>
-</a> <a href="https://www.gnu.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/The_GNU_logo.png" alt="bitcoin" width="46" height="46"/> </a> </a>
-<h align="left">      </h>
-</a> <a href="https://bitcoin.org/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/1487/PNG/512/8369-bitcoin_102502.png" alt="bitcoin" width="46" height="46"/> </a> </a>
-<h align="left">        </h>
+<h align="left">
+</h>
+<p align="left">
+</a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> <h align="left">        </h>
+</a> <a href="https://www.gnu.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/The_GNU_logo.png" alt="bitcoin" width="46" height="46"/>
+</a>
+</a>
+<h align="left">
+</a>
+<a href="https://bitcoin.org/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/1487/PNG/512/8369-bitcoin_102502.png" alt="bitcoin" width="46" height="46"/>
+</a>
+</a>
+<h align="left">
+</h>
 </a> <a  href="https://twitter.com/badph3" target="_blank" rel="noreferrer"> <img src="https://preview.redd.it/twitters-new-logo-v0-520csmznemr81.png?width=640&crop=smart&auto=webp&s=5f37d4b1ddf20feb04b9b77b5c2dda5cd8e807bd" alt="c" width="45" height="45"/> </a>
 <h align="left">         </h>
 </a> <a href="https://www.instagram.com/badph/?next=%2F" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.freepngimg.com%2Fdownload%2Finstagram%2F8-2-instagram-png-clipart.png&f=1&nofb=1&ipt=51db930579bad7d472396230170fbd2d658399923a0c4ed6c2b4b574bf8099aa&ipo=images" alt="c" width="40" height="40"/> 
