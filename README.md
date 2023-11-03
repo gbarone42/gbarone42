@@ -31,14 +31,6 @@
     <!-- Your existing links and images go here -->
 </p>
 
-</body>
-</html>
-
-<!--
-<h align="left">Hi </h>
-<h align="left">      </h>
--->
-
 <h align="left">      </h>
 <p align="left">   </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> <h align="left">        </h>
 </a> <a href="https://www.gnu.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/The_GNU_logo.png" alt="bitcoin" width="46" height="46"/> </a> </a>
