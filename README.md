@@ -1,10 +1,38 @@
 
 
-<!-- <img align="center" alt="coding" width="100" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1"> -->
 
 
 
 
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+   
+</head>
+<body>
+
+<!-- Add a cool sentence at the beginning -->
+<h1 align="center" style="color: #ff6600;">Welcome!</h1>
+<p align="center" style="font-size: 10px; color: black;">work in progress, help</p>
+
+<!-- Add a cool GIF -->
+<div align="center">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F247d8ee14f4569a7a5d033081ec785d2%2Ftenor.gif%3Fitemid%3D7866345&f=1&nofb=1&ipt=496b283c32747b592eb7e5ed923c15bec16af5bffc2c2b369bd79f6f42bb9e4a&ipo=images" alt="Coding GIF" width="184">
+</div>
+
+<!-- Add a cool separator -->
+<hr style="width: 80%; margin: 20px auto;">
+
+<!-- List of cool links -->
+<p align="left">
+    <!-- Your existing links and images go here -->
+</p>
+
+</body>
+</html>
 
 <!--
 <h align="left">Hi </h>
