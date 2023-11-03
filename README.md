@@ -53,6 +53,8 @@
 </a> <a href="https://www.treccani.it/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.1001buonisconto.it%2Fit%2Ff2274aad2ac4dd76.png&f=1&nofb=1&ipt=79ce173d4eb66d80044836245d703b8fb1bc4b71f8cff10e0124b5aa47d9a3f1&ipo=images" width="36" height="36"/> </a> </a>
 </a> <a href="https://www.coingecko.com/" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fquiin.s3.us-east-1.amazonaws.com%2Forganizations%2Fpictures%2F000%2F004%2F638%2Foriginal%2FCoinGecko_Logo.png%3F1585529895&f=1&nofb=1&ipt=f4f9940e64621d4aafa3ded5948dd354baf0428c7864f576a52aa411ee21d2ca&ipo=images" width="40" height="40"/> </a> </a>
 </a> <a href="https://www.ilovepdf.com/"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.sftcdn.net%2Fimages%2Ft_app-logo-l%2Cf_auto%2Fp%2F9d1fb5c4-9b68-11e6-922d-00163ec9f5fa%2F827644651%2Filovepdf-logo.png&f=1&nofb=1&ipt=562c6bdaac8168d763be19299102ac3bae6cc945410b1229c27680890d4498fa&ipo=images" width="40" height="40"/> </a> </a>
+</a> <a href="https://theuselessweb.com/"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fjw6ndUHPcCjnO%2Fsource.gif&f=1&nofb=1&ipt=a822729ce2cd5ce17cd75130e6fa448f3d403516fee049eeef5dc0fe5211f285&ipo=images" width="80" height="62"/> </a> </a>
+
 
 
   </p>
