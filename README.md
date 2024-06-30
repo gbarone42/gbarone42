@@ -16,7 +16,12 @@
 
 <!-- Add a cool sentence at the beginning -->
 <h1 align="center" style="color: #ff6600;">Welcome!</h1>
-<p align="center" style="font-size: 10px; color: black;">work in progress, help</p>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F702&center=true&width=435&lines=gbarone42/badph3)](https://git.io/typing-svg)
+
+</div>
+
 <!-- Add a cool GIF -->
 <div align="center">
 
