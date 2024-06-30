@@ -18,6 +18,8 @@
 <h1 align="center" style="color: #ff6600;">Welcome!</h1>
 <p align="center" style="font-size: 10px; color: black;">work in progress, help</p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbarone42&layout=compact&theme=gotham&hide_border=true" />
+
 <!-- Add a cool GIF -->
 <div align="center">
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F247d8ee14f4569a7a5d033081ec785d2%2Ftenor.gif%3Fitemid%3D7866345&f=1&nofb=1&ipt=496b283c32747b592eb7e5ed923c15bec16af5bffc2c2b369bd79f6f42bb9e4a&ipo=images" alt="Coding GIF" width="212">
