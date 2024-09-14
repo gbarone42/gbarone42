@@ -17,13 +17,16 @@
 <!--  <h1 align="center" style="color: #ff6600;">Welcome!</h1> -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F702&center=true&width=435&lines=gbarone42/badph3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8C00&center=true&width=435&lines=gbarone42/badph3)](https://git.io/typing-svg)
+
 
 
 </div>
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbarone42&langs_count=15&exclude_repo=gbarone42&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbarone42&langs_count=15&exclude_repo=gbarone42&layout=compact&title_color=FF8C00&text_color=FF8C00&bg_color=000000)
+
+
 
 
 </div>
