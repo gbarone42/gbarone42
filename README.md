@@ -6,7 +6,6 @@
 
 
 
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -18,14 +17,13 @@
 <h1 align="center" style="color: #ff6600;">Welcome!</h1>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F702&center=true&width=435&lines=gbarone42/badph3)](https://git.io/typing-svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbarone42&langs_count=15&exclude_repo=gbarone42&layout=compact)
 
 </div>
 
 <!-- Add a cool GIF -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbarone42&layout=compact&theme=gotham&hide_border=true" />
 
 <!-- Add a cool separator -->
 <hr style="width: 80%; margin: 20px auto;">
