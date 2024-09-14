@@ -66,11 +66,16 @@
   <h align="left">         </h>
 </a> <a href="https://42.fr/en/homepage/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FPurple124%2Fv4%2F07%2Fa6%2F2b%2F07a62b3c-0280-ce2f-23f1-e621173b2e27%2Fsource%2F512x512bb.jpg&f=1&nofb=1&ipt=1050c56db4fe0b2fb20d4ad575dfdc7b11e58e8be9750a4d60b2f60d110853d2&ipo=images" alt="c" width="42" height="42"/>   
 </a> <a href="https://8marketcap.com/" target="_blank" rel="noreferrer"> <img src="https://8marketcap.com/8marketcap.png" width="40" height="40"/> </a> </a>
-</a> <a href="https://chat.openai.com//" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.cdnlogo.com%2Flogos%2Fc%2F18%2FChatGPT_800x800.png&f=1&nofb=1&ipt=4e8ec35b01b3f99e9b5ad123260eb2ce37b384749014e41fbe2757e1bccec4ca&ipo=images" width="40" height="40"/> </a> </a>
+<a href="https://chat.openai.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://imgs.search.brave.com/1FZenM9mkR1uZjB7ngAG_Pz-FcKx-C15EvJ3wcUdDLg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9mcmVl/bG9nb3BuZy5jb20v/aW1hZ2VzL2FsbF9p/bWcvMTY4MTAzODI0/MmNoYXRncHQtbG9n/by1wbmcucG5n" width="40" height="40"/> 
+</a>
 </a> <a href="https://www.treccani.it/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.1001buonisconto.it%2Fit%2Ff2274aad2ac4dd76.png&f=1&nofb=1&ipt=79ce173d4eb66d80044836245d703b8fb1bc4b71f8cff10e0124b5aa47d9a3f1&ipo=images" width="36" height="36"/> </a> </a>
 </a> <a href="https://www.coingecko.com/" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fquiin.s3.us-east-1.amazonaws.com%2Forganizations%2Fpictures%2F000%2F004%2F638%2Foriginal%2FCoinGecko_Logo.png%3F1585529895&f=1&nofb=1&ipt=f4f9940e64621d4aafa3ded5948dd354baf0428c7864f576a52aa411ee21d2ca&ipo=images" width="40" height="40"/> </a> </a>
 </a> <a href="https://www.ilovepdf.com/"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.sftcdn.net%2Fimages%2Ft_app-logo-l%2Cf_auto%2Fp%2F9d1fb5c4-9b68-11e6-922d-00163ec9f5fa%2F827644651%2Filovepdf-logo.png&f=1&nofb=1&ipt=562c6bdaac8168d763be19299102ac3bae6cc945410b1229c27680890d4498fa&ipo=images" width="40" height="40"/> </a> </a>
 </a> <a href="https://theuselessweb.com/"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fjw6ndUHPcCjnO%2Fsource.gif&f=1&nofb=1&ipt=a822729ce2cd5ce17cd75130e6fa448f3d403516fee049eeef5dc0fe5211f285&ipo=images" width="80" height="62"/> </a> </a>
+<a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank" rel="noreferrer">
+    <img src="https://imgs.search.brave.com/GpB5WQlesvec2MXDXDV3SmKb0pzSJzyH667WAzbxGcs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NhL0xpbmtlZElu/X2xvZ29faW5pdGlh/bHMucG5n" width="40" height="40"/> 
+</a>
 
 
 
