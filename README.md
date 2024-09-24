@@ -27,7 +27,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbarone42&langs_count=15&exclude_repo=gbarone42&layout=compact&title_color=FF8C00&text_color=FF8C00&bg_color=000000)
 
 
-
+ 
 
 </div>
 
