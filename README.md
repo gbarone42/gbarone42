@@ -83,8 +83,10 @@
 <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank" rel="noreferrer">
     <img src="https://imgs.search.brave.com/GpB5WQlesvec2MXDXDV3SmKb0pzSJzyH667WAzbxGcs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NhL0xpbmtlZElu/X2xvZ29faW5pdGlh/bHMucG5n" width="40" height="40"/> 
 </a>
-</a> <a href="https://theuselessweb.com/"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fjw6ndUHPcCjnO%2Fsource.gif&f=1&nofb=1&ipt=a822729ce2cd5ce17cd75130e6fa448f3d403516fee049eeef5dc0fe5211f285&ipo=images" width="70" height="62"/> </a> </a>
 
+<!--     
+</a> <a href="https://theuselessweb.com/"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fjw6ndUHPcCjnO%2Fsource.gif&f=1&nofb=1&ipt=a822729ce2cd5ce17cd75130e6fa448f3d403516fee049eeef5dc0fe5211f285&ipo=images" width="70" height="62"/> </a> </a>
+-->
 
 
   </p>
