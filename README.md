@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -19,21 +11,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8C00&center=true&width=435&lines=gbarone42/badph3)](https://git.io/typing-svg)
 
-
-
 </div>
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbarone42&langs_count=15&exclude_repo=gbarone42&layout=compact&title_color=FF8C00&text_color=FF8C00&bg_color=000000)
 
-
- 
-
 </div>
 
 <!-- Add a cool GIF -->
 <div align="center">
-
 
 <!-- Add a cool separator -->
 <hr style="width: 80%; margin: 20px auto;">
@@ -84,16 +70,13 @@
     <img src="https://imgs.search.brave.com/GpB5WQlesvec2MXDXDV3SmKb0pzSJzyH667WAzbxGcs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NhL0xpbmtlZElu/X2xvZ29faW5pdGlh/bHMucG5n" width="40" height="40"/> 
 </a>
 
-<!--     
-</a> <a href="https://theuselessweb.com/"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fjw6ndUHPcCjnO%2Fsource.gif&f=1&nofb=1&ipt=a822729ce2cd5ce17cd75130e6fa448f3d403516fee049eeef5dc0fe5211f285&ipo=images" width="70" height="62"/> </a> </a>
--->
+<!-- Add the visit count -->
+<div align="center">
+    <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=badph&label=Views&color=2&icon=5&pretty=false" />
+    </a>
+</div>
 
+</body>
+</html>
 
-  </p>
-<!--
-
-  <img align="center" alt="coding" width="242" src="https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif">
-
-</a> <a href="https://nanabianca.it/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.cdnlogo.com%2Flogos%2Fc%2F18%2FChatGPT_800x800.png&f=1&nofb=1&ipt=4e8ec35b01b3f99e9b5ad123260eb2ce37b384749014e41fbe2757e1bccec4ca&ipo=images" alt="c" width="68" height="30"/>  
-  <h align="left">         </h>
-  -->
