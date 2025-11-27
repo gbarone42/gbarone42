@@ -12,7 +12,7 @@
 
 <div align="center">
     <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbarone42&refresh=1&langs_count=15&exclude_repo=gbarone42&layout=compact&title_color=FF8C00&text_color=FF8C00&bg_color=000000&refresh=1"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbarone42&refresh=2&langs_count=15&exclude_repo=gbarone42&layout=compact&title_color=FF8C00&text_color=FF8C00&bg_color=000000&refresh=1"
         alt="Top Langs"
     />
 </div>
