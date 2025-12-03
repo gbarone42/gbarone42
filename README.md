@@ -24,8 +24,6 @@
 </div>
 
 <!-- Tutte le icone restano identiche -->
-(…il resto del codice che hai già va bene così…)
-
 <!-- Visit counter -->
 <div align="center">
     <a href="https://visitcount.itsvg.in">
